@@ -1,10 +1,7 @@
-# pkyx
+# introduction
 
-pkyx是基于Flask开发的一个比较网站，灵感来自于[VSChart](http://vschart.com)。
+aphu是用来学习的python web, copy from pkyx
 
-demo: [pkyx](http://45.78.53.13)
-
-[10天开发一个网站](http://tonnie17.github.io/2015/10/11/pkyx/)
 
 ## 安装依赖
 
